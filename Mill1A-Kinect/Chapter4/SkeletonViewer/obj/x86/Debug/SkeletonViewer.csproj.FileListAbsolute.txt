@@ -1,0 +1,11 @@
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\bin\Debug\BeginningKinect.Chapter4.SkeletonViewer.exe
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\bin\Debug\BeginningKinect.Chapter4.SkeletonViewer.pdb
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\obj\x86\Debug\MainWindow.baml
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\obj\x86\Debug\App.g.cs
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\obj\x86\Debug\BeginningKinect.Chapter4.SkeletonViewer_MarkupCompile.cache
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\obj\x86\Debug\BeginningKinect.Chapter4.SkeletonViewer.g.resources
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\obj\x86\Debug\BeginningKinect.Chapter4.SkeletonViewer.Properties.Resources.resources
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\obj\x86\Debug\SkeletonViewer.csproj.GenerateResource.Cache
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\obj\x86\Debug\BeginningKinect.Chapter4.SkeletonViewer.exe
+C:\Kinect\Beginning Kinect\Chapter4\SkeletonViewer\obj\x86\Debug\BeginningKinect.Chapter4.SkeletonViewer.pdb

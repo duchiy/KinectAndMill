@@ -1,0 +1,37 @@
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\App.g.cs
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots_MarkupCompile.cache
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots_MarkupCompile.lref
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\bin\Debug\BeginningKinect.Chapter4.KinectTheDots.exe
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\bin\Debug\BeginningKinect.Chapter4.KinectTheDots.pdb
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\MainWindow.baml
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots.g.resources
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots.Properties.Resources.resources
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\KinectTheDots.csproj.GenerateResource.Cache
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots.exe
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots.pdb
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\SkeletonViewer.baml
+C:\Kinect\Beginning Kinect\Chapter4\KinectTheDots\obj\x86\Debug\SkeletonViewer.g.cs
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\bin\Debug\BeginningKinect.Chapter4.KinectTheDots.exe
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\bin\Debug\BeginningKinect.Chapter4.KinectTheDots.pdb
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\SkeletonViewer.baml
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\MainWindow.g.cs
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\SkeletonViewer.g.cs
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\App.g.cs
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\MainWindow.baml
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots.Properties.Resources.resources
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\KinectTheDots.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Mill1A\_Output\Debug\Win32\BeginningKinect.Chapter4.KinectTheDots.exe
+C:\Program Files (x86)\Mill1A\_Output\Debug\Win32\BeginningKinect.Chapter4.KinectTheDots.pdb
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots_MarkupCompile.cache
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots_MarkupCompile.lref
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots.g.resources
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots.exe
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots.pdb
+C:\Program Files (x86)\Mill1A\Chapter4\_Output\Debug\Win32\BeginningKinect.Chapter4.KinectTheDots.exe
+C:\Program Files (x86)\Mill1A\Chapter4\_Output\Debug\Win32\BeginningKinect.Chapter4.KinectTheDots.pdb
+C:\Program Files (x86)\Mill1A\Chapter4\KinectTheDots\obj\x86\Debug\KinectTheDots.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Mill1A-Kinect\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots.exe
+C:\Program Files (x86)\Mill1A-Kinect\Chapter4\KinectTheDots\obj\x86\Debug\BeginningKinect.Chapter4.KinectTheDots.pdb
